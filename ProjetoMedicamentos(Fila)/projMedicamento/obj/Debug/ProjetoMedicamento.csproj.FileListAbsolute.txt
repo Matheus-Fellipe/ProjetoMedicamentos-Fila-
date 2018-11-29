@@ -1,0 +1,7 @@
+C:\Users\Gil\Desktop\ED 2\ProjetoMedicamentos(Fila)\projMedicamento\bin\Debug\projMedicamento.exe.config
+C:\Users\Gil\Desktop\ED 2\ProjetoMedicamentos(Fila)\projMedicamento\bin\Debug\projMedicamento.exe
+C:\Users\Gil\Desktop\ED 2\ProjetoMedicamentos(Fila)\projMedicamento\bin\Debug\projMedicamento.pdb
+C:\Users\Gil\Desktop\ED 2\ProjetoMedicamentos(Fila)\projMedicamento\obj\Debug\ProjetoMedicamento.csprojAssemblyReference.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoMedicamentos(Fila)\projMedicamento\obj\Debug\ProjetoMedicamento.csproj.CoreCompileInputs.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoMedicamentos(Fila)\projMedicamento\obj\Debug\projMedicamento.exe
+C:\Users\Gil\Desktop\ED 2\ProjetoMedicamentos(Fila)\projMedicamento\obj\Debug\projMedicamento.pdb

@@ -1,0 +1,6 @@
+E:\Arquivos\ADS\471\projMedicamento\projMedicamento\bin\Debug\projMedicamento.exe.config
+E:\Arquivos\ADS\471\projMedicamento\projMedicamento\obj\Debug\projMedicamento.csprojResolveAssemblyReference.cache
+E:\Arquivos\ADS\471\projMedicamento\projMedicamento\bin\Debug\projMedicamento.exe
+E:\Arquivos\ADS\471\projMedicamento\projMedicamento\bin\Debug\projMedicamento.pdb
+E:\Arquivos\ADS\471\projMedicamento\projMedicamento\obj\Debug\projMedicamento.exe
+E:\Arquivos\ADS\471\projMedicamento\projMedicamento\obj\Debug\projMedicamento.pdb
